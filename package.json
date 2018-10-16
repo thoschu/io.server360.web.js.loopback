@@ -1,0 +1,27 @@
+{
+  "name": "io.server360.web.js.loopback",
+  "version": "1.0.0",
+  "description": "https://loopback.io/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoschu/io.server360.web.js.loopback.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "node.js",
+    "loopback.js"
+  ],
+  "author": "Tom S. <thoschulte@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thoschu/io.server360.web.js.loopback/issues"
+  },
+  "homepage": "https://github.com/thoschu/io.server360.web.js.loopback#readme",
+  "devDependencies": {
+    "loopback-cli": "^4.2.1"
+  }
+}
